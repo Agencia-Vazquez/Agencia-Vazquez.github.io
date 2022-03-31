@@ -1,6 +1,6 @@
 demo site now [mirrored](https://weathered-bread-8229.on.fleek.co/) in [IPFS](https://github.com/ipfs/ipfs#quick-summary)!
 
-# | [servicios](./servicios)| [destinos](./destinos) | [hospedaje](./hospedaje) | [contrato de servicio](./contrato de servicios) | [reservaciones](./reservaciones) | [horarios](./horarios) | [contacto](./contacto) | 
+# | [servicios](./servicios)| [destinos](./destinos) | [hospedaje](./hospedaje) | [contrato de servicio](./contratodeservicios) | [reservaciones](./reservaciones) | [horarios](./horarios) | [contacto](./contacto) | 
 
 ## Features of v2.0:
 - SEO meta tags
