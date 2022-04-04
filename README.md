@@ -3,6 +3,9 @@ demo site now [mirrored](https://weathered-bread-8229.on.fleek.co/) in [IPFS](ht
 # | [servicios](./servicios.md)| [destinos](./destinos.md) | [hospedaje](./hospedaje.md) | [contrato de servicio](./contratodeservicios.md) | [reservaciones](./reservaciones.md) | [horarios](./horarios.md) | [contacto](./contacto.md) | 
 
 ## Nuestra agencia 
+¡¡¡bienvenido!!!   
+te damos una calida bienvenida y asi mismo te presentamos nuestras ofetas a considerar.   
+
 La Agencia-Vazquez tienen como objetivo final asesorar, vender y organizar viajes u otros servicios turísticos; el papel principal que desempeñan estas sociedades mercantiles es el de intermediación entre la persona que demanda turismo y la persona que ofrece el servicio turístico   
 
 - comments 'courtain' to mask the disqus interface until the user clicks on it ([configurable in _config.yml](https://github.com/the-mvm/the-mvm.github.io/blob/d4a67258912e411b639bf5acd470441c4c219544/_config.yml#L13))
