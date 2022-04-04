@@ -2,23 +2,9 @@ demo site now [mirrored](https://weathered-bread-8229.on.fleek.co/) in [IPFS](ht
 
 # | [servicios](./servicios.md)| [destinos](./destinos.md) | [hospedaje](./hospedaje.md) | [contrato de servicio](./contratodeservicios.md) | [reservaciones](./reservaciones.md) | [horarios](./horarios.md) | [contacto](./contacto.md) | 
 
-## Features of v2.0:
-- SEO meta tags
-- Dark mode ([configurable in _config.yml file](https://github.com/the-mvm/the-mvm.github.io/blob/a8d4f781bfbc4107b4842433701d28f5bbf1c520/_config.yml#L10))
-- automatic [sitemap.xml](http://the-mvm.github.io/sitemap.xml)
-- automatic [archive page](http://the-mvm.github.io/archive/) with infinite scrolling capability
-- [new page](https://the-mvm.github.io/tag/?tag=Coding) of posts filtered by a single tag (without needing autopages from paginator V2), also with infinite scrolling
-- click to tweet functionality (just add a `<tweet> </tweet>` tag in your markdown.
-- custom and responsive [404 page](https://the-mvm.github.io/404.html)
-- responsive and automatic Table of Contents (optional per post)
-- read time per post automatically calculated
-- responsive post tags and social share icons (sticky or inline)
-- included linkedin, reddit and bandcamp icons
-- *copy link to clipboard* sharing option (and icon)
-- view on github link button (optional per post)
-- MathJax support (optional per post)
-- tag cloud in the home page
-- 'back to top' button
+## Nuestra agencia 
+La Agencia-Vazquez tienen como objetivo final asesorar, vender y organizar viajes u otros servicios turísticos; el papel principal que desempeñan estas sociedades mercantiles es el de intermediación entre la persona que demanda turismo y la persona que ofrece el servicio turístico   
+
 - comments 'courtain' to mask the disqus interface until the user clicks on it ([configurable in _config.yml](https://github.com/the-mvm/the-mvm.github.io/blob/d4a67258912e411b639bf5acd470441c4c219544/_config.yml#L13))
 - [CSS variables](https://github.com/the-mvm/the-mvm.github.io/blob/d4a67258912e411b639bf5acd470441c4c219544/assets/css/main.css#L8) to make it easy to customize all colors and fonts
 - added several themes for code syntax highlight [configurable from the _config.yml file](https://github.com/the-mvm/the-mvm.github.io/blob/e146070e9348c2e8f46cb90e3f0c6eb7b59c041a/_config.yml#L44).
