@@ -4,12 +4,20 @@ Cancún es una ciudad de México ubicada en la península de Yucatán que limita
 ![image](https://user-images.githubusercontent.com/99847355/165147808-bafc13a7-dc5b-48c5-8c24-a419f33e040a.png)   
 
 # Tulum   
-
+Tulum es una ciudad de la costa caribeña de México, en la Península de Yucatán. Es conocida por sus ruinas bien conservadas de un antiguo puerto maya. El edificio principal es una gran estructura de piedra llamada El Castillo, que se alza en la parte superior de un acantilado rocoso, sobre las playas de arena blanca y el mar turquesa. Cerca de las ruinas, se encuentra el Parque Nacional Tulum, un área costera con mangles y cenotes.    
+![image](https://user-images.githubusercontent.com/99847355/165148888-7a8d7fe1-3836-468f-befb-a9e50be199a4.png)
 # Isla Cozumel.   
+Cozumel es una isla mexicana en el Caribe en su mayoría no desarrollada y es un puerto popular para cruceros, famosa por sus sitios de buceo. En el Parque Nacional Arrecifes de Cozumel, hay puntos de buceo en torno a una sección del arrecife mesoamericano y las esculturas sumergidas del Museo Subacuático de Arte. Chankanaab es un parque ecológico que rodea una laguna con cavernas submarinas y que alberga delfines, manatíes y tortugas marinas   
+![image](https://user-images.githubusercontent.com/99847355/165149581-5bb0e992-d4c0-4e87-8975-158e31415f43.png)
+
 
 # Izamal.   
+Izamal es una ciudad mexicana, cabecera del municipio del mismo nombre en el Estado de Yucatán. Izamal se ubica a 66.5 kilómetros al este de Mérida y a unos 60 kilómetros al noroeste de Chichén Itza.    
+![image](https://user-images.githubusercontent.com/99847355/165149027-19774772-3390-4c81-9cb2-e6837326052c.png)
 
 # Mazatlán.   
+Mazatlán es un balneario mexicano de la costa del Pacífico en el estado de Sinaloa. Las playas de arena bordean su malecón de 21 km de largo y el lugar es famoso por la pesca de altura. En su Centro Histórico, o Viejo Mazatlán, los sitios icónicos del siglo XIX incluyen el Teatro Ángela Peralta y la altísima basílica de la Inmaculada Concepción. El distrito moderno Zona Dorada es conocido por su vida nocturna y hoteles.    
+![image](https://user-images.githubusercontent.com/99847355/165149399-c1a0e9b2-4055-4e7a-84a2-bbbc97602840.png)
 
 # Acapulco.   
 
