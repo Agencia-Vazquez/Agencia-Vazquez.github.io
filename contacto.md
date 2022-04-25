@@ -10,10 +10,6 @@
  <input type="text" id="apellidos" apellidos="apellidos" valve= "apellidos"><br>
  <label for="telefono">telefono:</label><br>
  <input type="text" id="telefono" telefono="telefono" valve= "telefono"><br>
- <label for="gustos">gustos:</label><br>
- <input type="text" id="gustos" gustos="gustos" valve= "gustos"><br>
- <label for="modelo de tu agrado">modelo de tu agrado:</label><br>
- <input type="text" id="modelo de tu agrado" modelo de tu agrado="modelo de tu agrado" valve= "modelo de tu agrado"><br>
  <label for="dia para agendar cita">dia para agendar cita:</label><br>
  <input type="text" id="dia para agendar cita" dia para agendar cita="dia para agendar cita" valve= "dia para agendar cita"><br>
  <label for="otros">otros:</label><br>
