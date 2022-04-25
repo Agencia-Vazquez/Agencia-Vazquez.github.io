@@ -24,16 +24,10 @@ Volaris 218
 D-L-M-M-J-V-S    
 
 # tulum   
-seria un aproximado de 18h 25 min ruta por carretera  y en avion es un aproximado de 5h 18min  
-MEX - TUY   
+seria un aproximado de 18h 25 min ruta por carretera  y en avion es un aproximado de 5h 18min   
 
-06:01 → 08:27   
 
-VivaAerobus   
-
-VivaAerobus 1256   
-
-D-L-M-M-J-V-S
+MEX - TUY   06:01 → 08:27   VivaAerobus   VivaAerobus 1256    D-L-M-M-J-V-S
 
 # isla cozumel
 # izamal
