@@ -25,3 +25,4 @@ Acapulco, un balneario en la costa del Pacífico de México, se ubica en una gra
 # Guadalajara.   
 Guadalajara es una ciudad en el oeste de México. Es conocida por el tequila y la música mariachi, ambos nacidos en Jalisco, el estado del que Guadalajara es la capital. El centro histórico de Guadalajara tiene plazas coloniales y lugares emblemáticos como el Teatro Degollado neoclásico y una catedral con agujas doradas gemelas. El Palacio del Gobierno alberga famosos murales del pintor José Clemente Orozco   
 ![image](https://user-images.githubusercontent.com/99847355/165149994-8c41082d-0739-4804-ae31-b96feaa83337.png)
+[regresar](./README.md)
