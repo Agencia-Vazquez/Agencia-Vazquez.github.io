@@ -21,8 +21,10 @@ MEX – CUN
 08:20 → 10:41
 Volaris
 Volaris 218
-D-L-M-M-J-V-S
-# tulum
+D-L-M-M-J-V-S    
+
+# tulum   
+18h 25 min ruta por carretera  y en avion
 # isla cozumel
 # izamal
 # mazatlan
