@@ -10,7 +10,6 @@ Tulum es una ciudad de la costa caribeña de México, en la Península de Yucat�
 Cozumel es una isla mexicana en el Caribe en su mayoría no desarrollada y es un puerto popular para cruceros, famosa por sus sitios de buceo. En el Parque Nacional Arrecifes de Cozumel, hay puntos de buceo en torno a una sección del arrecife mesoamericano y las esculturas sumergidas del Museo Subacuático de Arte. Chankanaab es un parque ecológico que rodea una laguna con cavernas submarinas y que alberga delfines, manatíes y tortugas marinas   
 ![image](https://user-images.githubusercontent.com/99847355/165149581-5bb0e992-d4c0-4e87-8975-158e31415f43.png)
 
-
 # Izamal.   
 Izamal es una ciudad mexicana, cabecera del municipio del mismo nombre en el Estado de Yucatán. Izamal se ubica a 66.5 kilómetros al este de Mérida y a unos 60 kilómetros al noroeste de Chichén Itza.    
 ![image](https://user-images.githubusercontent.com/99847355/165149027-19774772-3390-4c81-9cb2-e6837326052c.png)
@@ -20,7 +19,9 @@ Mazatlán es un balneario mexicano de la costa del Pacífico en el estado de Sin
 ![image](https://user-images.githubusercontent.com/99847355/165149399-c1a0e9b2-4055-4e7a-84a2-bbbc97602840.png)
 
 # Acapulco.   
+Acapulco, un balneario en la costa del Pacífico de México, se ubica en una gran bahía bordeado de edificios de muchos pisos y las montañas de la Sierra Madre del Sur. Se hizo famoso gracias al jet set en los años 1950 y 1960, y es conocido por su enérgica vida nocturna, las playas y el golf. Desde su icónico acantilado de La Quebrada, los clavadistas profesionales se lanzan desde 40 m para sumergirse en una pequeña caleta en el océano todos los días y noches   
+![image](https://user-images.githubusercontent.com/99847355/165149813-aa8efc4a-8f1d-4302-96ce-9fb6286ebf36.png)
 
 # Guadalajara.   
-
-# Ciudad de México.
+Guadalajara es una ciudad en el oeste de México. Es conocida por el tequila y la música mariachi, ambos nacidos en Jalisco, el estado del que Guadalajara es la capital. El centro histórico de Guadalajara tiene plazas coloniales y lugares emblemáticos como el Teatro Degollado neoclásico y una catedral con agujas doradas gemelas. El Palacio del Gobierno alberga famosos murales del pintor José Clemente Orozco   
+![image](https://user-images.githubusercontent.com/99847355/165149994-8c41082d-0739-4804-ae31-b96feaa83337.png)
