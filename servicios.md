@@ -22,4 +22,4 @@ Para aquellos que solo quieren conocer y no saben por doden comenzar te ofrecemo
 ## Excursiones   
 te ofrecemos las excursiones las cuales tienen como destinos las zonas mas concurridas por su fama y buenas notas de tu destuno pudiendo incluso interactuar entre tus alrededores.
    
-   README.md
+[regresar](./README.md)
