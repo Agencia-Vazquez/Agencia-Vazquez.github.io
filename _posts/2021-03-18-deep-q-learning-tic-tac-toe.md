@@ -11,7 +11,7 @@ author: Armando Maynez
 github: amaynez/TicTacToe/
 toc: yes # leave empty or erase for no TOC
 ---
-# Horarios    
+# aproximados de fechas  
 Tenemos diversdos horarios para ir a los distintos destinos que te ofrecemos; tenemos muy buenas horas deida de regreso, a demas una gran flexibilidad en cuanto dias, horas, etc.   
 a continuacion te dejamos los horarios de los destinos que se pueden ver en nuestro sitio web
    
