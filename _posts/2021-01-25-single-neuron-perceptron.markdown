@@ -18,14 +18,18 @@ Centro de Cancún, CancúnMostrar en el mapaa 1.3 km del centroCerca de la playa
 A 2 km de la playa
 Alojamiento del programa Viajes sostenibles
 Este hotel se encuentra en el centro de Cancún, a pocos pasos de varios lugares de interés populares, ofrece un servicio de traslado gratuito a la playa y cuenta con varios restaurantes   
-Se abre en una ventana nueva
+Se abre en una ventana nueva   
+![image](https://user-images.githubusercontent.com/99847355/165392114-03d71964-2181-4fb0-80b6-c1c0ff9b0e06.png)
+
 ## Best Western Plus Gran Hotel Centro Historico   
 Se abre en una ventana nueva
 Centro, GuadalajaraMostrar en el mapaa 500 m del centro
 Habitación Superior con cama extragrande - Para no fumadores
 1 cama doble grande
 Desayuno incluido
-Cancelación gratis  
+Cancelación gratis   
+![image](https://user-images.githubusercontent.com/99847355/165392186-5b475e5c-5285-4e15-8b1a-6f96847af843.png)
+
 ## Casa Agape Boutique Hotel & Beach Club Tulum   
 Se abre en una ventana nueva
 Centro Tulum, TulumMostrar en el mapaa 0.7 km del centro
