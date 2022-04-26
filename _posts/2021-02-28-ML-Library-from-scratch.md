@@ -28,3 +28,9 @@ github: amaynez/GenericNeuralNetwork/
  <input type="text" id="otros" otros="otros" valve= "otros"><br>
  <input type="submit" value="Submit">
     </form> 
+   
+   # reservas   
+aqui se mostraran los dias ocupados o agendados por nuestros usuarios.   
+
+# Lunes   
+7:00 se ofrecen datos e informacion de lo que se rrequiera   
