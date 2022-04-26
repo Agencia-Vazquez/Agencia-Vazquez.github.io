@@ -38,12 +38,16 @@ Oferta por tiempo limitado
 Suite con balcón y vistas al jardín - Cama extragrande
 Suite privada • 1 dormitorio • 1 sala de estar • 1 baño • 38m²
 2 camas (1 doble, 1 doble extragrande)
-Cancelación gratis  
-## Villas Segovia Hotel Boutique & SuitesSe abre en una ventana nueva
-CozumelMostrar en el mapaa 350 m de Isla Pasion Weddings
+Cancelación gratis   
+![image](https://user-images.githubusercontent.com/99847355/165392433-b85a20c2-aec1-4236-8922-329fa5dd3e06.png)
+
+## Villas Segovia Hotel Boutique & Suites
+Se abre en una ventana nueva CozumelMostrar en el mapaa 350 m de Isla Pasion Weddings
 Habitación Doble
 1 cama doble extragrande
 Desayuno incluido   
+![image](https://user-images.githubusercontent.com/99847355/165392583-8fc4bc9b-79f1-4a7d-8a69-a8546f219def.png)
+
    
  entre otros destinos turisticos.   
  
