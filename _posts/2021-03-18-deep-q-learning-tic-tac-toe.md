@@ -77,7 +77,29 @@ Aeromexico
 Aeromexico 500
 L-M-M-J-V-S-D
 
-# mazatlan
+# mazatlan   
+![image](https://user-images.githubusercontent.com/99847355/165556711-827c6695-c0bd-409c-b93d-4859ae7cb159.png)
+
+seria un aproximado de 12 h 11 min ruta por carretera y en avio seria un aproximado de 1h 45min   
+
+MEX – MZT
+09:45 → 10:37
+Aeromexico
+Aeromexico 350
+L-M-M-J-V-S-D   
+
+MEX – MZT
+10:20 → 11:00
+VivaAerobus
+VivaAerobus 1150
+L-M-M-J-V-S-D    
+
+MEX – MZT
+16:01 → 16:43
+Volaris
+Volaris 798
+L-M-M-J-V-S-D 
+
 # acapulco
 # guadalajara
 
