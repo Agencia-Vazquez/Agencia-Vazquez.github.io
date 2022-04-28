@@ -2,9 +2,9 @@
 layout: post
 read_time: true
 show_date: true
-title:  reservaciones
+title:  itinerario
 date:   2021-02-28 12:32:20 -0600
-description: tu dinos la fecha y nosotros te agendamos
+description: tu dinos la fecha y nosotros te agendamos de acuerdo al itinerario de nuestra pagina; este itineraio te servira de guia para tus gustos de a cuerdo atus necesidades.
 img: posts/20210228/MLLibrary.jpg 
 tags: [machine learning, coding, neural networks, python]
 author: Armando Maynez
@@ -29,7 +29,7 @@ github: amaynez/GenericNeuralNetwork/
  <input type="submit" value="Submit">
     </form> 
    
-   # reservas   
+# itinerario    
 aqui se mostraran los dias ocupados o agendados por nuestros usuarios.   
 ![image](https://user-images.githubusercontent.com/99847355/165846949-b5cd4c59-8461-49ed-be12-6c9c6f450a56.png)
 
