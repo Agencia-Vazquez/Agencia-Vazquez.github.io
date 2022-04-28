@@ -13,9 +13,6 @@ description: "personaliza tus viajes"
 # contrato de servicios   
 a continuacion se les muesta un ejemplo de nuestro contrato de servios el cual sera recibido una vez te pongas en contacto con nosotros para agenddar correctamente tu viaje y comenzar a crear tu propio y personalizado itinerario.   
 
-![image](https://user-images.githubusercontent.com/99847355/165853501-4689836f-29cc-4508-ac48-4dfdd966b939.png)
-
-
 a trevez de nuestra pagina de contacto podras ver un QR con el cual podras ponerte en contacto con nosotros y ademas un formulario con el cual podras indicarnos un poco mas hacerca de que dia te gustaria agendar, tus datos personales entre otras cosas como lo son:   
 
 | destinos | | servicios | | hospedaje | | itinerario | | hoarios |      
