@@ -31,6 +31,6 @@ github: amaynez/GenericNeuralNetwork/
    
    # reservas   
 aqui se mostraran los dias ocupados o agendados por nuestros usuarios.   
+![image](https://user-images.githubusercontent.com/99847355/165846949-b5cd4c59-8461-49ed-be12-6c9c6f450a56.png)
 
-# Lunes   
-7:00 se ofrecen datos e informacion de lo que se rrequiera   
+  
