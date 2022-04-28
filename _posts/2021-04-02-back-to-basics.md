@@ -8,7 +8,7 @@ img: posts/20210402/post7-header.webp
 tags: [neural networks, machine learning, artificial intelligence]
 category: theory
 author: Armando Maynez
-description: "ELI5: what is a neural network."
+description: "personaliza tus viajes"
 ---
 # contrato de servicios   
 a continuacion se les muesta un ejemplo de nuestro contrato de servios el cual sera recibido una vez te pongas en contacto con nosotros para agenddar correctamente tu viaje y comenzar a crear tu propio y personalizado itinerario.   
