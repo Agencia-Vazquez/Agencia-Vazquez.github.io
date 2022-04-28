@@ -100,6 +100,35 @@ Volaris
 Volaris 798
 L-M-M-J-V-S-D 
 
-# acapulco
-# guadalajara
+# acapulco   
+![image](https://user-images.githubusercontent.com/99847355/165848686-84114028-1a3d-4e7a-8ce9-d696ed63e54e.png)
+
+seria un aproximado de 4h 18 min ruta por carretera y por avion seria 1h 15 minutos   
+MEX – ACA
+16:01 → 17:13
+Volaris
+Volaris 098
+L-M-M-J-V-S-D 
+
+# guadalajara   
+![image](https://user-images.githubusercontent.com/99847355/165848831-328e8850-3465-43d2-a285-69183c93da0c.png)   
+
+es un aproximao de 6h 26 min ruta por carretera y por avion seria 5 horas 32 min   
+MEX – GDL
+09:45 → 2:37
+Aeromexico
+Aeromexico 358
+L-M-M-J-V-S-D   
+
+MEX – GDL
+10:20 → 15:00
+VivaAerobus
+VivaAerobus 150
+L-M-M-J-V-S-D    
+
+MEX – GDL
+16:01 → 21:16
+Volaris
+Volaris 708
+L-M-M-J-V-S-D 
 
